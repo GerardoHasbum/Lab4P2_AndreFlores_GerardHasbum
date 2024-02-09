@@ -8,6 +8,8 @@ package lab4p2_andreflores_gerardohasbum;
  *
  * @author ghasb
  */
-public class Fuego {
+public abstract class Fuego extends Agentes{
+    
+    
     
 }

@@ -8,6 +8,8 @@ package lab4p2_andreflores_gerardohasbum;
  *
  * @author ghasb
  */
-public class Usuarios {
+public class Usuarios extends Personas{
+    
+    
     
 }

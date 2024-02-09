@@ -8,6 +8,8 @@ package lab4p2_andreflores_gerardohasbum;
  *
  * @author ghasb
  */
-public class Agentes {
+public abstract class Agentes extends Personas {
+    
+    
     
 }
